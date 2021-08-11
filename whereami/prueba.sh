@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "hola mundo"
-variable=pwd
+variable=$pwd
 echo $variable
