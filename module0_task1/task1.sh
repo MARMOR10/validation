@@ -1,3 +1,3 @@
 #!/bin/bash
-echo $cd /home
-exit
+cd /home
+exec bash
