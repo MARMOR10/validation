@@ -1,2 +1,2 @@
-cd : /home
-pwd
+cd /home
+
